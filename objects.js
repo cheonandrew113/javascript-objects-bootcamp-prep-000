@@ -1,6 +1,6 @@
 Object.assign({playlist: ''})
 
-function updatePlaylist(playlist, songName, artist){
+function updatePlaylist(playlist, songName, songTitle){
   
 }
 
