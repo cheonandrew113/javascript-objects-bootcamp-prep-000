@@ -4,6 +4,6 @@ function updatePlaylist(){
   
 }
 
-function removeFromPlaylist(){
+function removeFromPlaylist(playlist, artistname){
   
 }
